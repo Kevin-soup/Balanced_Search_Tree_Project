@@ -34,7 +34,6 @@ Core Methods (Implemented for Both Versions)
 ## Additional Features
 &nbsp;find_mode() (Separate Chaining only) — Find the most frequently occurring value(s) in the table
 
-__iter__() and __next__() (Open Addressing only) — Enable iteration over key-value pairs
 ---
 ## Technologies and Tools
 Python 3

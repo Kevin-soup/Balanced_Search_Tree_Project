@@ -29,7 +29,8 @@ Core Methods (Implemented for Both Versions)
 
 &nbsp;get_keys_and_values() — Return a list of all keys and their values
 
-&nbsp;clear() — Remove all entries
+&nbsp; clear() — Remove all entries
+
 ---
 ## Additional Features
 &nbsp;find_mode() (Separate Chaining only) — Find the most frequently occurring value(s) in the table
@@ -42,4 +43,5 @@ Object-Oriented Programming
 
 Custom dynamic array and singly linked list (provided as starter code)
 
-No third-party libraries
+**No third-party libraries
+**

@@ -9,7 +9,6 @@ This project implements a HashMap in Python using two different collision resolu
 
 &nbsp;The goal of the project is to deepen understanding of hash table internals, collision handling, dynamic resizing, and efficient data storage and retrieval.
 
-&nbsp;This was completed as a portfolio assignment for Oregon State University’s CS261 course.
 ---
 ## Implemented Features
 Core Methods (Implemented for Both Versions)
